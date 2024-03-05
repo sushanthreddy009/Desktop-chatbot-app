@@ -8,9 +8,11 @@ To get started with this app, you might have to clone or download the repository
 
 
 [https://github.com/sushanthreddy009/Desktop-chatbot-app.git]
+
 cd Desktop-chatbot-app
+
 Desktop-chatbot-app->
-```
+
 
 ## Dependencies
 
@@ -18,14 +20,14 @@ For Window user, there is no extra dependencies to be installed however for thos
 
 
 sudo apt-get install python3-tk
-```
+
 
 ## launching
 
 Now once installed launch it by running as you would run a normal python script and the gui for chatbot will pop up;
 
 python app.py
-```
+
 
 ### launched interface
 
