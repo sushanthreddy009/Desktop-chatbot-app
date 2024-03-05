@@ -7,7 +7,7 @@ This a cross-platform desktop app built with [tkinter] which simply acts like a 
 To get started with this app, you might have to clone or download the repository first;
 
 
-git clone https://github.com/Kalebu/Desktop-chatbot-app
+[https://github.com/sushanthreddy009/Desktop-chatbot-app.git]
 cd Desktop-chatbot-app
 Desktop-chatbot-app->
 ```
